@@ -25,6 +25,6 @@ Using Django-allauth and Twitter Bootstrap.
 
 ## Running localhost
 
-Please comment the line 147 and 150 on blink_web/settings.template.py if you
+Please comment the line 147 and 150 in `blink_web/settings.template.py` if you
 need to run on localhost because it use email verification. localhost can't
 send email from local.
